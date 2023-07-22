@@ -1,0 +1,18 @@
+
+#myBtn:hover span {
+    display:none
+  }
+  
+  #myBtn:hover:before {
+    content:"Remove All!";
+  }
+  
+  #myBtn:hover {
+    background-color: #dc3545;
+    border:#dc3545 ;
+    color: #fff;
+  }
+  #todoListContainer {
+    height: 50px;
+    border: 1px solid #ced4da;
+  }
